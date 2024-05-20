@@ -211,7 +211,6 @@ public class BiteMoreFoodDeliverySystem {
     }
 
     public static void runBiteMoreSystem() {
-        List<MenuItem> selectedItems = new ArrayList<>();
         mainMenu(selectedItems);
     }
 }
