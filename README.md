@@ -1,5 +1,5 @@
 Introduction : <br> 
-This is a simple console base food delivery system made with core java only.
+This is a simple console base food delivery system made with core java only where the concept of oops, list are specially used.
 
 Features : <br>
 
